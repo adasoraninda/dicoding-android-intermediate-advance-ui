@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DATA-DEDA/dicoding/android/intermediate/MyCustomView/app/src/main/res/drawable-v21/app_widget_background.xml" value="0.1185" />
+        <entry key="..\:/DATA-DEDA/dicoding/android/intermediate/MyCustomView/app/src/main/res/drawable-v21/app_widget_inner_view_background.xml" value="0.1185" />
+        <entry key="..\:/DATA-DEDA/dicoding/android/intermediate/MyCustomView/app/src/main/res/drawable/bg_button.xml" value="0.1" />
+        <entry key="..\:/DATA-DEDA/dicoding/android/intermediate/MyCustomView/app/src/main/res/drawable/bg_button_disable.xml" value="0.1" />
+        <entry key="..\:/DATA-DEDA/dicoding/android/intermediate/MyCustomView/app/src/main/res/drawable/bg_button_disabled.xml" value="0.1" />
+        <entry key="..\:/DATA-DEDA/dicoding/android/intermediate/MyCustomView/app/src/main/res/layout/activity_button.xml" value="0.20416666666666666" />
+        <entry key="..\:/DATA-DEDA/dicoding/android/intermediate/MyCustomView/app/src/main/res/layout/activity_like.xml" value="0.20416666666666666" />
+        <entry key="..\:/DATA-DEDA/dicoding/android/intermediate/MyCustomView/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/DATA-DEDA/dicoding/android/intermediate/MyCustomView/app/src/main/res/layout/activity_ticket.xml" value="0.20416666666666666" />
+        <entry key="..\:/DATA-DEDA/dicoding/android/intermediate/MyCustomView/app/src/main/res/layout/activity_web_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/DATA-DEDA/dicoding/android/intermediate/MyCustomView/app/src/main/res/layout/image_banner_widget.xml" value="0.1" />
+        <entry key="..\:/DATA-DEDA/dicoding/android/intermediate/MyCustomView/app/src/main/res/layout/random_number_widget.xml" value="0.20416666666666666" />
+        <entry key="..\:/DATA-DEDA/dicoding/android/intermediate/MyCustomView/app/src/main/res/layout/widget_item.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
